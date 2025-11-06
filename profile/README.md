@@ -41,6 +41,6 @@ Operating in key locations like Malta, Qatar, Dubai, Istanbul, and beyond, with 
 ## 📞 Contact Us
 
 *	AVIET LTD: For training inquiries, visit [www.aviet.aero](https://aviet.aero).
-*	AVIET Technic: For maintenance services, visit [www.aviettechnic.org](https://aviettechnic.aero).
+*	AVIET Technic: For maintenance services, visit [www.aviettechnic.aero](https://aviettechnic.aero).
 
 Feel free to explore our repositories and join us in advancing aviation through technology! 🚀
