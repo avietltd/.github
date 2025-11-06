@@ -9,7 +9,7 @@ Welcome to AVIET's GitHub repository! This is where we centralize all our IT and
 AVIET consists of two entities under a unified administration:
 
 1.	AVIET LTD: Focused on providing EASA-approved training courses and examinations, empowering the next generation of aviation professionals.
-2.	AVIET Technic: An EASA Part-145 certified maintenance organization offering comprehensive aircraft line maintenance and special services, with 10 operational stations globally and more in development.
+2.	AVIET Technic: An EASA Part-145 certified maintenance organization offering comprehensive aircraft line maintenance and special services, with 12 operational stations globally and more in development.
 
 ## 🌐 Our Mission
 
@@ -24,8 +24,10 @@ We aim to deliver exceptional, technology-driven solutions in aircraft maintenan
 
 ## 🚀 Services & Expertise
 
+*	Type Training & Certification (EASA Part-147)
+*	Non-147 Courses (General Familiarization, ..)
+*	SOJT
 *	Line Maintenance & Special Services
-*	Technical Training & Certification (EASA Part-147)
 *	Pre-Buy & Borescope Inspections
 *	MCC Services
 *	24/7 AOG Support
@@ -39,6 +41,6 @@ Operating in key locations like Malta, Qatar, Dubai, Istanbul, and beyond, with 
 ## 📞 Contact Us
 
 *	AVIET LTD: For training inquiries, visit [www.aviet.aero](https://aviet.aero).
-*	AVIET Technic: For maintenance services, visit [www.aviettechnic.org](https://aviettechnic.org).
+*	AVIET Technic: For maintenance services, visit [www.aviettechnic.org](https://aviettechnic.aero).
 
 Feel free to explore our repositories and join us in advancing aviation through technology! 🚀
